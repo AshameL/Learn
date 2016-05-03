@@ -1,0 +1,1 @@
+python is a dynamic and strongly typed programming language designed to emphasize usability. two similar but incompatible versions of python are in widespread use (2 and 3). if you have a version-specific python question consider using the python-2.7 or python-3.x tags in addition to the python tag.
